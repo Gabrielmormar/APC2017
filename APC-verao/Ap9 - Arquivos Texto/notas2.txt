@@ -1,0 +1,3 @@
+16234 6.00 6.00 6.00 daniel car
+16777 7.00 5.00 7.00 ricardo araujo
+15890 7.00 8.00 9.00 maria jose
